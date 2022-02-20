@@ -1,0 +1,16 @@
+sim.DT               =   0.01f ;
+sim.Particles        = 150000  ;
+sim.W                = 1280    ;
+sim.H                =  720    ;
+sim.DiffuseFilterHW  =    1    ;
+sim.DecayRate        =    0.15f;
+sim.DiffuseRate      =    5.00f;
+sim.TrailWeight      =    0.08f;
+sim.SensorAngle      =  52.00f;
+sim.SensorSize       =    3    ;
+sim.MoveSpeed        =   0.03f;
+sim.SensorOffset     =   20.00f;
+sim.TurnAngle        =   50.00f;
+sim.RandomAutoTurnFactor    =  0.20f;
+sim.BorderRepulsionMinRange = 100    ;
+sim.BorderRepulsionStrength = 2.00f;
